@@ -1,11 +1,5 @@
 # Linux Lab 5 --- Shells and Bash Scripting
 
-## Course Information
-
-**Course:** Operating Systems Lab (CMPE341-S01-2025)\
-**Instructor:** Prof. Dr. Nima Jafari Navimipour\
-**Teaching Assistants:** Maryam Zaker, Hossam Rafaie, Parviz Pourmahmoud
-
 ------------------------------------------------------------------------
 
 ## Learning Outcomes
