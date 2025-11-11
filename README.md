@@ -214,10 +214,3 @@ Other related commands: `less`, `head`, `tail`, `wc`, `grep`, `sort`,
 -   Understanding stdin, stdout, stderr, and pipes is crucial for
     automation.
 
-------------------------------------------------------------------------
-
-## Recommended Practice
-
-Students should reproduce all challenges and modify the scripts to: -
-Log operations to a file. - Handle user input and exit codes. - Use
-comments and proper indentation for clarity.
